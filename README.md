@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="110" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="110" />
+</p>
+
 # 💻 JS - My JavaScript Journey
 
 > I am learning JavaScript from zero. This repo has all my learning and projects.
-
-[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[Learning](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
-[Termux](https://img.shields.io/badge/Termux-User-black?style=for-the-badge)
-
----
 
 ## 🚀 What Is In This Repo?
 
